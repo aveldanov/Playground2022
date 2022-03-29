@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E1A174F8-626F-4F89-B23D-986D3FC663FA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FD3824B-D7E0-41E3-8455-0C26943915C4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestDelete4Tests/TestDelete4Tests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "testAPICaller_WhenValidDataProvided_ReturnSuccess()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5FD3824B-D7E0-41E3-8455-0C26943915C4 - 995316c70c3fc2e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;TestDelete4.User&gt;, Swift.Error) -&gt; () in TestDelete4Tests.TestDelete4Tests.testAPICaller_WhenValidDataProvided_ReturnSuccess() -&gt; ()"
+                  moduleName = "TestDelete4Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aveldanov/AntonVeldanov/April2020/Swift/TurboIntApps/TestDelete4/TestDelete4Tests/TestDelete4Tests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "5FD3824B-D7E0-41E3-8455-0C26943915C4 - 995316c70c3fc13a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;TestDelete4.User&gt;, Swift.Error) -&gt; () in TestDelete4Tests.TestDelete4Tests.testAPICaller_WhenValidDataProvided_ReturnSuccess() -&gt; ()"
+                  moduleName = "TestDelete4Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aveldanov/AntonVeldanov/April2020/Swift/TurboIntApps/TestDelete4/TestDelete4Tests/TestDelete4Tests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79B047F5-31EC-41B8-A2E9-4550C70D836C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestDelete4Tests/MockURLSession.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "startLoading()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "79B047F5-31EC-41B8-A2E9-4550C70D836C - 8984c6ad68710428"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestDelete4Tests.MockURLSession.stopLoading() -&gt; ()"
+                  moduleName = "TestDelete4Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aveldanov/AntonVeldanov/April2020/Swift/TurboIntApps/TestDelete4/TestDelete4Tests/MockURLSession.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "79B047F5-31EC-41B8-A2E9-4550C70D836C - ec7eb8e0e2a82118"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestDelete4Tests.MockURLSession.startLoading() -&gt; ()"
+                  moduleName = "TestDelete4Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aveldanov/AntonVeldanov/April2020/Swift/TurboIntApps/TestDelete4/TestDelete4Tests/MockURLSession.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
